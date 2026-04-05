@@ -29,8 +29,8 @@ Analyze user behavior and identify drop-offs in the product conversion funnel.
 - Implement cart abandonment strategies
 - Run A/B tests on UI and pricing
 
-## 🛠 Tools Used
+##  Tools Used
 - SQL (SQLite)
 
-## 🎯 Outcome
+##  Outcome
 Identified major conversion bottlenecks and proposed data-driven improvements.
