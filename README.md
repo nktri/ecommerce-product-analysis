@@ -18,6 +18,8 @@ Identify conversion bottlenecks in the e-commerce funnel to improve user experie
 - View Users: 908
 - Cart Users: 168
 - Purchase Users: 18
+  #  Visual Insights
+[Funnel Chart](Funnel_chart.png)
 
 ### Conversion Rates
 - Cart Conversion: ~18.5%
