@@ -1,11 +1,16 @@
 # E-commerce Product Analytics Project
 
 ##  Objective
-Analyze user behavior and identify drop-offs in the product conversion funnel.
+Identify conversion bottlenecks in the e-commerce funnel to improve user experience and increase revenue.
 
 ##  Dataset
 - 1M+ user interaction records
 - Events: view, cart, purchase
+- # Approach
+- Cleaned and structured raw event data  
+- Used SQL to analyze user-level behavior  
+- Built funnel metrics (View → Cart → Purchase)  
+- Identified drop-offs and conversion bottlenecks  
 
 ##  Key Analysis
 
@@ -34,3 +39,8 @@ Analyze user behavior and identify drop-offs in the product conversion funnel.
 
 ##  Outcome
 Identified major conversion bottlenecks and proposed data-driven improvements.
+
+## Business Impact
+- Improving conversion from 2% to 3% can lead to ~50% increase in revenue  
+- Identified key friction points affecting user journey  
+- Insights can guide product and UX improvements  
